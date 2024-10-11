@@ -1,0 +1,92 @@
+commit bcbee5e7948232dcbd97a3431437bfebe635b876
+Author: 0carloscastillo0 <carlos.castillo.d@usach.cl>
+Date:   Fri Oct 11 19:17:59 2024 -0300
+
+    Agregando 2 párrafos
+
+commit 7f4738790ed73c57920044d726cf5370e2153e6a
+Merge: 6e9b316 9cb8f9e
+Author: 0carloscastillo0 <carlos.castillo.d@usach.cl>
+Date:   Fri Oct 11 19:16:05 2024 -0300
+
+    Resolviendo conflicto en estaciones del año y fecha de inicio
+
+commit 6e9b3169d5fdd60448a24759c4f4b6f3f516f904
+Author: 0carloscastillo0 <carlos.castillo.d@usach.cl>
+Date:   Fri Oct 11 19:02:07 2024 -0300
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 9cb8f9e011854b3465e730fa9711cc54aa4e2900
+Author: 0carloscastillo0 <carlos.castillo.d@usach.cl>
+Date:   Fri Oct 11 19:02:07 2024 -0300
+
+    agregando las estaciones del año
+
+commit 5123ea2907f615e642ed8f63e0ce38b29c4fe015
+Merge: c86afbd 72640d7
+Author: 0carloscastillo0 <carlos.castillo.d@usach.cl>
+Date:   Fri Oct 11 16:47:33 2024 -0300
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 72640d7cad9f3ff82edb3233bbc840e7fe7fe538
+Author: 0carloscastillo0 <carlos.castillo.d@usach.cl>
+Date:   Fri Oct 11 16:41:23 2024 -0300
+
+    Agregando index.js al index.html
+
+commit c86afbd27c354e3ed83c5689bc875bd5db41c0f4
+Author: 0carloscastillo0 <carlos.castillo.d@usach.cl>
+Date:   Fri Oct 11 16:39:42 2024 -0300
+
+    Agregando style.css al index.html
+
+commit e3916faba78884e9725fb34f299e017450d1272f
+Merge: 6755b65 d0cf8d8
+Author: 0carloscastillo0 <carlos.castillo.d@usach.cl>
+Date:   Fri Oct 11 16:30:00 2024 -0300
+
+    Merge branch 'js'
+
+commit d0cf8d8a639c08317b001a3b08daec2acf0c95ad
+Author: 0carloscastillo0 <carlos.castillo.d@usach.cl>
+Date:   Fri Oct 11 16:20:48 2024 -0300
+
+    creando index.js
+
+commit 6755b65604db6b16f792c3910dce1a111819105f
+Author: 0carloscastillo0 <carlos.castillo.d@usach.cl>
+Date:   Fri Oct 11 16:16:45 2024 -0300
+
+    creando style.css
+
+commit 851459e6b11df9d4b0380b93b2c53b4ef4e75cc7
+Author: 0carloscastillo0 <carlos.castillo.d@usach.cl>
+Date:   Fri Oct 11 16:12:54 2024 -0300
+
+    creando index.html
+
+commit 06adbfcec9783d28d6774cf1f6b49df217848f3e
+Author: 0carloscastillo0 <carlos.castillo.d@usach.cl>
+Date:   Fri Oct 11 15:49:50 2024 -0300
+
+    Ignorando archivos .exe
+
+commit a725aa5a9390c4bc0dd01da0ca33ee5a746d39ed
+Author: 0carloscastillo0 <63989563+0carloscastillo0@users.noreply.github.com>
+Date:   Fri Oct 11 15:10:24 2024 -0300
+
+    Creando licencia del repositorio
+
+commit 3d4192bf87ad07da5fdf1c6127ba5f5a5d044f05
+Author: 0carloscastillo0 <carlos.castillo.d@usach.cl>
+Date:   Fri Oct 11 15:04:51 2024 -0300
+
+    agregando más contenido al README
+
+commit e6e5de116f1a3992f0c004dba40f3ce90e3214f6
+Author: 0carloscastillo0 <carlos.castillo.d@usach.cl>
+Date:   Fri Oct 11 14:54:53 2024 -0300
+
+    Agregando contenido inicial al README
